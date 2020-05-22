@@ -53,9 +53,6 @@ function Header() {
           <Link className="block mt-4 text-white no-underline md:inline-block md:mt-0 md:ml-6">
             Contact
           </Link>
-          <Link className="block border border-neonblue rounded-md px-4 py-2 border-solid mt-4 text-white no-underline md:inline-block md:mt-0 md:ml-6">
-            Resume
-          </Link>
         </nav>
       </div>
     </header>

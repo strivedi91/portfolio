@@ -4,9 +4,9 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        bggreen: "#0a192f",
-        neonblue: "#4ef6c7",
-        textgrey: "#de3618",
+        bggreen: "#16122a",
+        rosepink: "#ff6665",
+        lightgreen: "#098783",
       },
     },
   },
